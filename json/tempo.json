@@ -1,0 +1,22 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "",
+      "logo_1024": "",
+      "logo_svg": ""
+    },
+    "media": {
+      "twitter": "https://twitter.com/tempoicx",
+      "github": "https://github.com/tempoicx",
+      "instagram": "https://instagram.com/tempoicx"
+    }
+  },
+  "server": {
+    "location": {
+        "country": "USA",
+        "city": "Los Angeles"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "http://prep.tempoicx.com:9000"
+  }
+}
