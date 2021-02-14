@@ -1,9 +1,9 @@
 {
   "representative": {
     "logo": {
-      "logo_256": "",
-      "logo_1024": "",
-      "logo_svg": ""
+      "logo_256": "https://raw.githubusercontent.com/tempoicx/prep/main/assets/tempo-logo-256.png",
+      "logo_1024": "https://raw.githubusercontent.com/tempoicx/prep/main/assets/tempo-logo-1024.png",
+      "logo_svg": "https://raw.githubusercontent.com/tempoicx/prep/main/assets/tempo-logo.svg"
     },
     "media": {
       "twitter": "https://twitter.com/tempoicx",
